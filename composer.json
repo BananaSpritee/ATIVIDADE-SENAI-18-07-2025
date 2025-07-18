@@ -2,9 +2,4 @@
     "require-dev": {
         "phpunit/phpunit": "^10.5"
     }
-    "autoload": {
-        "psr-4": {
-            "ATIVIDADE-SENAI-18-07-2025\\":"ATIVIDADE-SENAI-18-07-2025/"
-        }
-    }
 }
